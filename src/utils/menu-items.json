@@ -1,0 +1,97 @@
+[
+  {
+    "title": "ESPN+",
+    "icon": "plus",
+    "subItems": [
+      {
+        "title": "Featured",
+        "to": ""
+      },
+      {
+        "title": "Originals"
+      },
+      {
+        "title": "Something else here"
+      },
+      {
+        "title": "Action"
+      }
+    ]
+  },
+  {
+    "title": "Watch",
+    "icon": "play-fill",
+    "subItems": [
+      {
+        "title": "Home",
+        "to": ""
+      },
+      {
+        "title": "Originals"
+      },
+      {
+        "title": "Something else here"
+      },
+      {
+        "title": "Action"
+      }
+    ]
+  },
+  {
+    "title": "Listen",
+    "icon": "volume-mute-fill",
+    "subItems": [
+      {
+        "title": "ESPN radio",
+        "to": ""
+      },
+      {
+        "title": "Another action"
+      },
+      {
+        "title": "Something else here"
+      },
+      {
+        "title": "Action"
+      }
+    ]
+  },
+  {
+    "title": "Fantasy",
+    "icon": "star-half",
+    "subItems": [
+      {
+        "title": "Fantasy home",
+        "to": ""
+      },
+      {
+        "title": "Another action"
+      },
+      {
+        "title": "Something else here"
+      },
+      {
+        "title": "Action"
+      }
+    ]
+  },
+  {
+    "title": "More",
+    "icon": "grid3x3-gap",
+    "subItems": [
+      {
+        "title": "The Undefeated",
+        "to": ""
+      },
+      {
+        "title": "Another action"
+      },
+      {
+        "title": "Something else here"
+      },
+      {
+        "title": "Action"
+      }
+    ]
+  }
+]

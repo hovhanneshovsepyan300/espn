@@ -1,0 +1,128 @@
+[
+  {
+    "title": "NFL",
+    "subItems": [
+      {
+        "title": "Action",
+        "to": ""
+      },
+      {
+        "title": "Another action"
+      },
+      {
+        "title": "Something else here"
+      },
+      {
+        "title": "Action"
+      }
+    ]
+  },
+  {
+    "title": "NBA",
+    "subItems": [
+      {
+        "title": "Action",
+        "to": ""
+      },
+      {
+        "title": "Another action"
+      },
+      {
+        "title": "Something else here"
+      },
+      {
+        "title": "Action"
+      }
+    ]
+  },
+  {
+    "title": "MLB",
+    "subItems": [
+      {
+        "title": "Action",
+        "to": ""
+      },
+      {
+        "title": "Another action"
+      },
+      {
+        "title": "Something else here"
+      },
+      {
+        "title": "Action"
+      }
+    ]
+  },
+  {
+    "title": "Soccer",
+    "subItems": [
+      {
+        "title": "Action",
+        "to": ""
+      },
+      {
+        "title": "Another action"
+      },
+      {
+        "title": "Something else here"
+      },
+      {
+        "title": "Action"
+      }
+    ]
+  },
+  {
+    "title": "NCAAF",
+    "subItems": [
+      {
+        "title": "Action",
+        "to": ""
+      },
+      {
+        "title": "Another action"
+      },
+      {
+        "title": "Something else here"
+      },
+      {
+        "title": "Action"
+      }
+    ]
+  },
+  {
+    "title": "Tennis",
+    "subItems": [
+      {
+        "title": "Action",
+        "to": ""
+      },
+      {
+        "title": "Another action"
+      },
+      {
+        "title": "Something else here"
+      },
+      {
+        "title": "Action"
+      }
+    ]
+  },
+  {
+    "title": "MMA"
+  },
+  {
+    "title": "NCAAM"
+  },
+  {
+    "title": "Boxing"
+  },
+  {
+    "title": "CLF"
+  },
+  {
+    "title": "Chalk"
+  },
+  {
+    "title": "Collage Sports"
+  }
+]
